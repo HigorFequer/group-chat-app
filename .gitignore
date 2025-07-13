@@ -1,0 +1,5 @@
+!.env.example
+# Ignore environment variable files
+.env
+node_modules/
+# Ignore log files
